@@ -1,5 +1,1 @@
-# Predective Model for Recession
-
-## Goal :
-
-### Build a predective model that can predict upcoming recession based on public sentiment on social media websites.
+## use "pip install -r requriments.txt" to download all dependencies
